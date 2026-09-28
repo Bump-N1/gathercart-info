@@ -1,2 +1,6 @@
-# gathercart-info
-Public support and privacy policy pages for GatherCart.
+# GatherCart
+
+GatherCartの利用者向けページです。
+
+- [サポート](./support.html)
+- [プライバシーポリシー](./privacy.html)
